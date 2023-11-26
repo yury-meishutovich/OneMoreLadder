@@ -1,0 +1,27 @@
+/.vs/OneMoreLadder/DesignTimeBuild
+/OneMoreLadder.DataAccess/bin/Debug/net8.0
+/OneMoreLadder.DataAccess/bin/Release/net8.0
+/OneMoreLadder.DataAccess/obj/Debug/net8.0
+/OneMoreLadder.DataAccess/obj
+/.vs/OneMoreLadder/FileContentIndex
+/.vs/OneMoreLadder/config
+/.vs/OneMoreLadder/v17
+/.vs/ProjectEvaluation
+/OneMoreLadder.Tests/bin/Debug/net8.0
+/OneMoreLadder.Tests/obj/Debug/net8.0
+/OneMoreLadder.Tests/obj
+/OneMoreLadder/Properties/PublishProfiles
+/OneMoreLadder/Properties/ServiceDependencies/OneMoreLadder20231123201550 - Zip Deploy
+/OneMoreLadder/bin/Debug/net6.0
+/OneMoreLadder/bin/Debug/net7.0
+/OneMoreLadder/bin/Debug/net8.0
+/OneMoreLadder/bin/Release/net8.0
+/OneMoreLadder/obj/Debug/net6.0
+/OneMoreLadder/obj/Debug/net7.0
+/OneMoreLadder/obj/Debug/net8.0
+/OneMoreLadder/obj
+/OnreMoreLadder.BusinessLogic/bin/Debug/net8.0
+/OnreMoreLadder.BusinessLogic/bin/Release/net8.0
+/OnreMoreLadder.BusinessLogic/obj/Debug/net8.0
+/OnreMoreLadder.BusinessLogic/obj
+/OneMoreLadder.Api
